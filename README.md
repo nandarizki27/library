@@ -7,8 +7,8 @@ Sistem Manajemen Perpustakaan Digital - Full Stack Application
 ---
 
 ## 👤 Identitas Mahasiswa
-- **Nama:** [GANTI DENGAN NAMA ANDA]
-- **NIM:** [GANTI DENGAN NIM ANDA]
+- **Nama:** NANDA RIZKI RAMADHAN
+- **NIM:** G.211.23.0025
 - **Mata Kuliah:** Rekayasa Web
 - **Topik:** Full Stack CRUD Application dengan Laravel & React
 
